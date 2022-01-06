@@ -1,0 +1,32 @@
+body {
+    font: 20px Arial, Serif ;
+}
+.nav {
+    background-color: #21610B;
+    color: white;
+    padding-top: 10px;
+}
+.quem-somos {
+    background-color: blue;
+    color: white;
+}
+.margin {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.margin2 {
+    padding-bottom: 10px;
+}
+.partners {
+    background-color: #642EFE;
+    color: white;
+}
+.services {
+    background-color: darkcyan;
+    color: white;
+}
+.footer {
+    background-color: black;
+    color: white;
+
+}
