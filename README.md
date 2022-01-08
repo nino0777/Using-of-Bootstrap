@@ -1,2 +1,2 @@
-# Using-of-Bootstrap
+# Using Bootstrap
 Class about framework Bootstrap
